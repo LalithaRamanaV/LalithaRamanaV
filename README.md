@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lalitha Vadavalli.An aspiring Full-Stack Developer.
+- 👋 Hi, I’m Lalitha Vadavalli, an aspiring Full-Stack Developer.
 - 👀 I’m interested in developing and designing web applications.
 - 🌱 I’m currently learning  MERN stack || ReactJS, NodeJs, Javascript ||
 
