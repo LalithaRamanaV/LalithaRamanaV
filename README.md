@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lalitha Vadavalli, an aspiring Full-Stack Developer.
-- 👀 I’m interested in developing and designing web applications.
-- 🌱 I’m currently learning  MERN stack || ReactJS, NodeJs, Javascript ||
+- 👀 Loves to develop  and design applications. MERN stack || ReactJS, NodeJs, Javascript ||
+-||  Data Science enthusiast||
 
 <!---
 LalithaRamanaV/LalithaRamanaV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
