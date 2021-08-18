@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lalitha Vadavalli, Full-Stack Developer.
+- 👋 Hi, I’m Lalitha Vadavalli, Developer.
 - 👀 Loves to develop  and design applications. MERN stack || ReactJS, NodeJs, Javascript || Data Science enthusiast||
 
 <!---
