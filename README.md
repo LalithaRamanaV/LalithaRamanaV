@@ -13,12 +13,6 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning MERN Stack
 - ⚡ Fun fact: I love to draw and write
 
-### Connect with me:
-
-<img align="left" alt="" width="22px"  src="https://img.icons8.com/color/48/000000/twitter--v1.png" />
-<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-<img align="left" alt="" width="22px"  src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />
-
 <br />
 
 ### Languages and Tools:
@@ -38,7 +32,34 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<br/>
 
+
+
+
+### Connect with me:
+
+
+[<img align="left" alt="LalithaVadavalli | Twitter" width="22px"  src="https://img.icons8.com/color/48/fff/twitter--v1.png" />][twitter]
+[<img align="left" alt="LalithaVadavalli | LinkedIn" width="22px" src="https://img.icons8.com/color/48/fff/linkedin.png" />][linkedin]
+[<img align="left" alt="lalithaVadavalli | Instagram" width="22px" src="https://img.icons8.com/color/48/fff/instagram-new--v1.png"/>][instagram]
+
+<br />
+
+
+
+
+
+
+
+
+</details>
+
+
+
+[twitter]: https://twitter.com/Sailalitha_V
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]:https://www.instagram.com/the_lalitha_vadavalli/
 
 
 
