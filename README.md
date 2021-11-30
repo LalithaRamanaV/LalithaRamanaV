@@ -34,11 +34,11 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-<!-- ###Connect with me:
+ ###Connect with me:
 
-[<img align="left" alt="LalithaVadavalli | Twitter" width="22px"  src="https://img.icons8.com/color/48/fff/twitter--v1.png" />][twitter]
-[<img align="left" alt="LalithaVadavalli | LinkedIn" width="22px" src="https://img.icons8.com/color/48/fff/linkedin.png" />][linkedin]
-[<img align="left" alt="lalithaVadavalli | Instagram" width="22px" src="https://img.icons8.com/color/48/fff/instagram-new--v1.png"/>][instagram]
+[<img align="left" alt="LalithaVadavalli | Twitter" width="22px"  src="https://img.icons8.com/color/48/fff/twitter--v1.png" />]
+[<img align="left" alt="LalithaVadavalli | LinkedIn" width="22px" src="https://img.icons8.com/color/48/fff/linkedin.png" />]
+[<img align="left" alt="lalithaVadavalli | Instagram" width="22px" src="https://img.icons8.com/color/48/fff/instagram-new--v1.png"/>]
 
 <br />
 
@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 [twitter]: https://twitter.com/Sailalitha_V
 [instagram]: https://www.instagram.com/the_lalitha_vadavalli/
 [linkedin]:https://www.linkedin.com/in/lalitha-vadavalli-438818173/
- -->
+ 
 
 
 
