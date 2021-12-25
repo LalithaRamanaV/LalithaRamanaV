@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 ## I'm a Developer,Designer and Content Writer.
 - 👋 Hi, I’m Lalitha Vadavalli, Developer.
 - 👀 Loves to develop  and design applications. MERN stack || ReactJS, NodeJs, Javascript || Data Science enthusiast||
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently building things in MERN Stack
 - ⚡ Fun fact: I love to draw and write
 
 <br />
