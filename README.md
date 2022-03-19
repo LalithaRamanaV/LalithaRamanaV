@@ -48,6 +48,7 @@ You can click the Preview link to take a look at your changes.
 ## Connect with me
 [<img align="left" alt="LalithaVadavalli | Twitter" width="22px"  src="https://img.icons8.com/color/48/fff/twitter--v1.png" />]
 [Twitter]
+[<img align="left" alt="LalithaVadavalli | LinkedIn" width="22px" src="https://img.icons8.com/color/48/fff/linkedin.png" />]
 [Linkedin]
 [Instagram]
 
