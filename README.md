@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=lalithaRamanaV&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=https://github.com/LalithaRamanaV&style=flat-square&color=blue" alt=""/>
  </div>
 <h1 align="center">
   hey there
