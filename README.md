@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## I'm a Developer, Designer and Content Writer.
+<!-- ## I'm a Developer, Designer and Content Writer.
 - 👋 Hi, I’m Lalitha Vadavalli, Developer.
 - 👀 Loves to develop  and design applications. MERN stack || ReactJS, NodeJs, Javascript || Data Science enthusiast||
 - 🌱 I’m currently building things in MERN Stack
@@ -45,7 +45,8 @@ You can click the Preview link to take a look at your changes.
 [instagram]: https://www.instagram.com/the_lalitha_vadavalli/
 [linkedin]:https://www.linkedin.com/in/lalitha-vadavalli-438818173/
 
-
+ -->
+ <iframe src="https://giphy.com/embed/765ccrAiB0g9z6EApL" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/765ccrAiB0g9z6EApL">via GIPHY</a></p>
  
 
 
