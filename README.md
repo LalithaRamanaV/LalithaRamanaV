@@ -72,7 +72,11 @@ You can click the Preview link to take a look at your changes.
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
+ ## I'm a Developer, Designer and Content Writer.
+- 👋 Hi, I’m Lalitha Vadavalli, Developer.
+- 👀 Loves to develop  and design applications. MERN stack || ReactJS, NodeJs, Javascript || Data Science enthusiast||
+- 🌱 I’m currently building things in MERN Stack
+- ⚡ Fun fact: I love to draw and write
 
 
 
