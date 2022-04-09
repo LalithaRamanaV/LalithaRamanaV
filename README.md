@@ -49,9 +49,9 @@ You can click the Preview link to take a look at your changes.
 <!--  <iframe src="https://giphy.com/embed/765ccrAiB0g9z6EApL" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/765ccrAiB0g9z6EApL">via GIPHY</a></p> -->
  
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="100"/>
-</div>
+</div> -->
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lalitha-vadavalli-438818173/">
