@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 📌 Contact Me :
 
 [<img align="center" height="40" src="https://img.icons8.com/color/48/000000/hot-article.png"/>](https://lalitha.hashnode.dev/)
-[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/ankita-bagale1108/www.linkedin.com/in/lalithavadavalli)
+[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/lalithavadavalli/)
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/Sailalitha_V)
 
 
