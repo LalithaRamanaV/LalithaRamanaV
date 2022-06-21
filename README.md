@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
   # Hi there! 
  
- 📌 I am **Lalitha Vadavalli**, currently learning Web Developement and building exciting MERN stack projects.
+ 📌 I am **Lalitha Vadavalli**, currently learning  and building exciting real-world MERN stack projects.
 
 📌 My technical skills include :
 
@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 📌 Here's a link to my [Portfolio](https://lalithavadavalli/)
 
 
-📌 Contact Me :
+📌 Connect with me:
 
 [<img align="center" height="40" src="https://img.icons8.com/color/48/000000/hot-article.png"/>](https://lalitha.hashnode.dev/)
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/lalithavadavalli/)
