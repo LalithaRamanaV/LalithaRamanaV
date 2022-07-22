@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 📌 My technical skills include :
 
-- 💻 *Languages:*  <img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/> <img align="center" height="30" src="https://img.icons8.com/ultraviolet/480/000000/react.png"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/typescript.png"/> <img align="center" height="30" src="https://user-images.githubusercontent.com/69760792/121766706-a67ec180-cb71-11eb-923d-69fc323bafa4.png"/>
+- 💻 *Languages:*  	𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭,𝐑𝐞𝐚𝐜𝐭,𝐍𝐨𝐝𝐞
 
 - 💻 *Front-End Development:* <img align="center" height="30" src="https://img.icons8.com/color/144/000000/html-5.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/css3.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/> <img align="center" height="30" src="https://img.icons8.com/ultraviolet/480/000000/react.png"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/typescript.png"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/redux.png"/> 
 
@@ -22,6 +22,9 @@ You can click the Preview link to take a look at your changes.
 📌 Read my blogs here
 
    [<img align="center" height="40" src="https://img.icons8.com/color/48/000000/hot-article.png"/>](https://lalitha.hashnode.dev/)
+   
+📌 Skills
+   <img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/> <img align="center" height="30" src="https://img.icons8.com/ultraviolet/480/000000/react.png"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/typescript.png"/> <img align="center" height="30" src="https://user-images.githubusercontent.com/69760792/121766706-a67ec180-cb71-11eb-923d-69fc323bafa4.png"/>
 
 📌 Connect with me:
 
