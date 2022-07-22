@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💻 *Front-End Development:* 			𝗛𝗧𝗠𝗟, 𝗖𝗦𝗦, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗥𝗲𝗮𝗰𝘁, 𝗥𝗲𝗱𝘂𝘅
 
-- 💻 *Back-End Development:* 𝗡𝗼𝗱𝗲𝗷𝘀, 𝗠𝗼𝗻𝗴𝗼𝗗𝗕, 𝗝𝗪𝗧
+- 💻 *Back-End Development:* 𝗡𝗼𝗱𝗲𝗷𝘀, 𝗠𝗼𝗻𝗴𝗼𝗗𝗕, 𝗝𝗪𝗧, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀
 
 
 📌 Here's a link to my [Portfolio](https://lalithavadavalli/)
