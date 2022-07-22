@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💻 *Languages:*  	𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭, 𝐑𝐞𝐚𝐜𝐭, 𝐍𝐨𝐝𝐞
 
-- 💻 *Front-End Development:* 		𝗛𝗧𝗠𝗟, 𝗖𝗦𝗦, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗥𝗲𝗮𝗰𝘁, 𝗥𝗲𝗱𝘂𝘅
+- 💻 *Front-End Development:* 			𝐇𝐓𝐌𝐋, 𝐂𝐒𝐒, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐑𝐞𝐚𝐜𝐭, 𝐑𝐞𝐝𝐮𝐱
 
 - 💻 *Back-End Development:*  <img align="center" height="30" src="https://user-images.githubusercontent.com/69760792/121766706-a67ec180-cb71-11eb-923d-69fc323bafa4.png"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/java-web-token.png"/>
 
