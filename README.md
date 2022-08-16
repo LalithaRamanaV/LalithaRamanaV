@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 - 💻 *Back-End Development:* 𝗡𝗼𝗱𝗲𝗷𝘀, 𝗠𝗼𝗻𝗴𝗼𝗗𝗕, 𝗝𝗪𝗧, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀
 
 
-📌 Here's a link to my [Portfolio](https://lalithavadavalli/)
+📌 Here's a link to my [Portfolio](https://lalitha.netlify.app/)
 
 📌 Read my blogs here
 
