@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 - 💻 *Back-End Development:* 𝗡𝗼𝗱𝗲𝗷𝘀, 𝗠𝗼𝗻𝗴𝗼𝗗𝗕, 𝗝𝗪𝗧, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀
 
 
-📌  🖥️  See my work at [portfolio](http://lalitha.netlify.app/)
+
 
 
 📌 ✉️  You can contact me at [sailalithavadavalli98@gmail.com](mailto:sailalithavadavalli98@gmail.com)
