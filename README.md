@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-📌 ✉️  You can contact me at [sailalithavadavalli98@gmail.com](mailto:sailalithavadavalli98@gmail.com)
+<!-- 📌 ✉️  You can contact me at [sailalithavadavalli98@gmail.com](mailto:sailalithavadavalli98@gmail.com) -->
 
 📌 Read my blogs here
      <p align="left">
