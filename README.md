@@ -51,6 +51,9 @@ You can click the Preview link to take a look at your changes.
 📌 Connect with me:
 
    [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/lalithavadavalli/)
+
+
+   [![An image of @lalithavadavalli's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lalithavadavalli)](https://holopin.io/@lalithavadavalli)
    
    
       
