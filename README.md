@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
   # Hi there! 👋
  
- 📌 I am **Lalitha Vadavalli**, currently building projects in MERN stack projects.
+ 📌 I am **Lalitha Vadavalli**, currently building fullstack projects.
 
 📌 My technical skills include :
 
