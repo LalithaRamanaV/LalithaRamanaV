@@ -29,10 +29,6 @@ You can click the Preview link to take a look at your changes.
   
  📌 Skills
 
-
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
   <img width="12" />
