@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
   # Hi there! 👋
  
- 📌 I am **Lalitha Vadavalli**, currently building fullstack projects.
+ 📌 I am **Lalitha Vadavalli**, currently building fullstack projects and exploring AI/ML.
 
 📌 My technical skills include :
 
