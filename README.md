@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 - 👨‍💻 All of my projects are available at [lalitha.netlify.app](lalitha.netlify.app)
 
 
- 📌 ✉️  You can contact me at [sailalithavadavalli98@gmail.com](mailto:sailalithavadavalli98@gmail.com) 
+ 📌 ✉️  For any work reach out to me at [sailalithavadavalli98@gmail.com](mailto:sailalithavadavalli98@gmail.com) 
 
 📌 Read my blogs here
      <p align="left">
