@@ -4,7 +4,7 @@
 LalithaRamanaV/LalithaRamanaV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-  # Hi there! 👋
+  # Hi there!
  
  📌 I am **Lalitha Vadavalli**, currently building fullstack projects and exploring AI/ML.
 
