@@ -8,6 +8,8 @@ You can click the Preview link to take a look at your changes.
  
  📌 I am **Lalitha Vadavalli**, currently building fullstack projects and exploring AI/ML.
 
+ 📌 Open for Full time roles and freelancing opportunities
+
 📌 My technical skills include :
 
 - 💻 *Languages:*  	𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗥𝗲𝗮𝗰𝘁, 𝗡𝗼𝗱𝗲𝗷𝘀
